@@ -8,8 +8,8 @@ Me apasiona el diseño y construcción de aplicaciones, el desarrollo backend y 
 
 ## 🚀 Proyectos Destacados
 
-### 🥝 [Fruit Season](https://github.com/MartinMDevv/Fruit-Season)
-Proyecto web de ventas de cajas con frutas de temporada a domicilio por suscripciones, desarrollado principalmente con **HTML**, **JavaScript** y **CSS**. Es un ejemplo de cómo una interfaz sencilla puede brindar utilidad en el día a día.
+### 🍔 [FoodHub Android](https://github.com/Rau1ignacio/foodhub-android.git)
+Aplicación móvil Android moderna para marketplace de alimentos, desarrollada con **Kotlin** y **Jetpack Compose**. Implementa arquitectura MVVM, integración con API REST mediante **Retrofit**, gestión de datos local con **Room**, y un sistema completo de autenticación, carrito de compras y administración de productos. Proyecto full-stack con backend en **Spring Boot**.
 
 ### 🍇 [React-Vite-FruitSeason-Fork](https://github.com/MartinMDevv/React-Vite-FruitSeason-Fork)
 Repositorio fork del proyecto Fruit Season modernizado con **React** y **Vite**. La mayor parte del código es **JavaScript** con estilos en **CSS** y estructura **HTML**.
@@ -28,8 +28,11 @@ Backend de Fruit Season desarrollado completamente en **Java** (Spring Boot), do
 - **Kotlin** & **Java** — Bases sólidas en programación y desarrollo backend
 - **Spring Boot** — Para creación de APIs y servicios robustos
 - **Android & Jetpack Compose** — Desarrollo de aplicaciones móviles modernas
+- **Retrofit** — Cliente HTTP para consumo de APIs REST
+- **Room Database** — Persistencia de datos local en Android
 - **Git** — Flujo de trabajo colaborativo y control de versiones
 - **SQL** — Gestión de datos y diseño de bases relacionales
+- **Arquitectura MVVM** — Patrón de diseño para aplicaciones escalables
 
 Además, exploro otras herramientas y frameworks frontend como **React** y prácticas modernas en **Vite** y **CSS**.
 
@@ -43,9 +46,9 @@ Construir proyectos sólidos para impulsar mi portafolio y prepararme para oport
 
 ## 📈 Repositorios que recomiendo explorar
 
-- [Repositorio backend en Java para Fruit Season](https://github.com/MartinMDevv/FruitSeason_Backend)
+- [FoodHub Android (Aplicación Móvil Kotlin)](https://github.com/Rau1ignacio/foodhub-android.git)
 - [Backend de FoodHub App en Kotlin](https://github.com/MartinMDevv/Backend_FoodHubApp)
-- [Fruit-Season (Web)](https://github.com/MartinMDevv/Fruit-Season)
+- [Repositorio backend en Java para Fruit Season](https://github.com/MartinMDevv/FruitSeason_Backend)
 - [React-Vite-FruitSeason-Fork (Web Moderno)](https://github.com/MartinMDevv/React-Vite-FruitSeason-Fork)
 
 ---
