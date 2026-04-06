@@ -1,6 +1,6 @@
 # 👨‍💻 Martin | Estudiante de Ingeniería en Informática
 
-¡Hola! Soy Martin, estudiante en Duoc UC actualmente en mi segundo año de Ingeniería en Informática. Comencé mis estudios en la sede Antonio Varas y ahora los continúo en Viña del Mar, un recorrido que ha fortalecido mi motivación por seguir creciendo en el área tecnológica.
+¡Hola! Soy Martin, estudiante en Duoc UC actualmente en mi tercer año de Ingeniería en Informática. Comencé mis estudios en la sede Antonio Varas y ahora los continúo en Viña del Mar, un recorrido que ha fortalecido mi motivación por seguir creciendo en el área tecnológica.
 
 Me apasiona el diseño y construcción de aplicaciones, el desarrollo backend y explorar nuevas herramientas para crear soluciones cada vez más completas. Tengo especial interés en la construcción de productos digitales que aporten valor, y en el futuro quiero adentrarme en el mundo de la ciberseguridad.
 
