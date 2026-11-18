@@ -1,64 +1,96 @@
-# 👨‍💻 Martin | Estudiante de Ingeniería en Informática
+<div align="center">
 
-¡Hola! Soy Martin, estudiante en Duoc UC actualmente en mi tercer año de Ingeniería en Informática. Comencé mis estudios en la sede Antonio Varas y ahora los continúo en Viña del Mar, un recorrido que ha fortalecido mi motivación por seguir creciendo en el área tecnológica.
+<img src="banner.svg" alt="Martin Mora · dev, devops y red team" width="100%">
 
-Me apasiona el diseño y construcción de aplicaciones, el desarrollo backend y explorar nuevas herramientas para crear soluciones cada vez más completas. Tengo especial interés en la construcción de productos digitales que aporten valor, y en el futuro quiero adentrarme en el mundo de la ciberseguridad.
+</div>
 
----
+<br>
 
-## 🚀 Proyectos Destacados
+Hola, soy Martin 👋. Estudio Ingeniería en Informática en Duoc UC, en Viña del Mar.
 
-### 🍔 [FoodHub Android](https://github.com/Rau1ignacio/foodhub-android.git)
-Aplicación móvil Android moderna para marketplace de alimentos, desarrollada con **Kotlin** y **Jetpack Compose**. Implementa arquitectura MVVM, integración con API REST mediante **Retrofit**, gestión de datos local con **Room**, y un sistema completo de autenticación, carrito de compras y administración de productos. Proyecto full-stack con backend en **Spring Boot**.
+Me gusta entender cómo funcionan las cosas por dentro. Casi siempre eso termina en una de dos:
+armar algo que se levante entero con un comando, o desarmar algo ajeno para ver por dónde se entra.
+Paso el día entre contenedores, terminales y CTF.
 
-### 🍇 [React-Vite-FruitSeason-Fork](https://github.com/MartinMDevv/React-Vite-FruitSeason-Fork)
-Repositorio fork del proyecto Fruit Season modernizado con **React** y **Vite**. La mayor parte del código es **JavaScript** con estilos en **CSS** y estructura **HTML**.
+<br>
 
-### 🍔 [Backend_FoodHubApp](https://github.com/MartinMDevv/Backend_FoodHubApp)
-Backend de la aplicación móvil FoodHub — construido en **Kotlin**. Aquí pongo en práctica arquitectura de APIs, lógica de negocio y conceptos de desarrollo backend orientado a móviles.
+## Cómo trabajo
 
-### 🌱 [FruitSeason_Backend](https://github.com/MartinMDevv/FruitSeason_Backend)
-Backend de Fruit Season desarrollado completamente en **Java** (Spring Boot), donde fortalezco mis habilidades en desarrollo de servicios REST y estructuración de proyectos backend profesionales.
+<img src="assets/reglas.svg" alt="Cómo trabajo" width="100%">
 
----
+## Stack
 
-## 📚 Tecnologías y Herramientas
+<img src="assets/stack.svg" alt="Stack: lenguajes, apps, devops, datos y sistema, y lado ofensivo" width="100%">
 
-🔧 Actualmente aprendiendo y utilizando:
-- **Kotlin** & **Java** — Bases sólidas en programación y desarrollo backend
-- **Spring Boot** — Para creación de APIs y servicios robustos
-- **Android & Jetpack Compose** — Desarrollo de aplicaciones móviles modernas
-- **Retrofit** — Cliente HTTP para consumo de APIs REST
-- **Room Database** — Persistencia de datos local en Android
-- **Git** — Flujo de trabajo colaborativo y control de versiones
-- **SQL** — Gestión de datos y diseño de bases relacionales
-- **Arquitectura MVVM** — Patrón de diseño para aplicaciones escalables
+## Proyectos
 
-Además, exploro otras herramientas y frameworks frontend como **React** y prácticas modernas en **Vite** y **CSS**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="assets/cacha-el-precio.svg" width="44" align="center" alt="">&nbsp; <a href="https://github.com/Martinnnn-ops/cacha-el-precio">Cacha el Precio</a></h3>
+      <img src="assets/estado/en-produccion.svg">
+      <p>Las tiendas anuncian descuentos contra un precio normal que nadie comprueba. Cacha el Precio revisa seis tiendas chilenas y guarda cómo cambia cada prenda. Vive en <a href="https://www.cacha-el-precio.com">cacha-el-precio.com</a>.</p>
+      <ul>
+        <li>Un catálogo con filtros por talla, prenda y presupuesto</li>
+        <li>El historial de precio de cada prenda, tienda por tienda</li>
+        <li>Un armario para guardar prendas y armar outfits</li>
+        <li>Un correo cuando algo baja, se agota o vuelve</li>
+      </ul>
+      <p><img src="assets/tech/dotnet-py-vue-aws-terraform.svg" height="34" alt=".NET, Python, Vue, AWS y Terraform"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="assets/lock-in.svg" width="44" align="center" alt="">&nbsp; <a href="https://github.com/MartinMDevv/lock-in">Lock In</a></h3>
+      <img src="assets/estado/en-uso.svg">
+      <p>Horario, tareas, gimnasio y plata en una sola app instalable. No quiere ganarle a ninguna app en lo suyo: quiere ser la única que hay que abrir cada mañana.</p>
+      <ul>
+        <li>La pantalla «Hoy» responde qué toca hacer hoy</li>
+        <li>Rutinas con la carga de la vez pasada, récords y racha</li>
+        <li>Plata en sobres; un gasto se anota en menos de 5 segundos</li>
+        <li>Funciona sin señal y se sincroniza sola al volver la red</li>
+      </ul>
+      <p><img src="assets/tech/react-ts-supabase-tailwind-vite.svg" height="34" alt="React, TypeScript, Supabase, Tailwind y Vite"></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="assets/argos.svg" width="44" align="center" alt="">&nbsp; <a href="https://github.com/MartinMDevv/Argos_mvp">Argos</a></h3>
+      <img src="assets/estado/en-construccion.svg">
+      <p>El guardián de cien ojos: vigila el mercado cripto en tiempo real y avisa solo cuando pasa algo que vale la pena mirar.</p>
+      <ul>
+        <li>BTC y ETH en vivo, con un año de historia de contexto</li>
+        <li>Alertas por precio, movimientos bruscos, volatilidad y volumen</li>
+        <li>Avisos por Telegram y una IA local que no inventa números</li>
+      </ul>
+      <p><img src="assets/tech/py-fastapi-postgres-docker-react.svg" height="34" alt="Python, FastAPI, PostgreSQL, Docker y React"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="assets/chessquery.svg" width="44" align="center" alt="">&nbsp; ChessQuery</h3>
+      <img src="assets/estado/equipo-repo-privado.svg">
+      <p>Una plataforma para la escena de ajedrez de club en Chile: jugar, organizar torneos y seguir tu progreso en un solo lugar.</p>
+      <ul>
+        <li>Partidas en vivo contra otros jugadores, en tiempo real</li>
+        <li>Torneos que arman los propios clubes y organizadores</li>
+        <li>Amigos, perfil público y modo espectador para ver partidas</li>
+      </ul>
+      <p><img src="assets/tech/spring-java-react-supabase-docker.svg" height="34" alt="Spring, Java, React, Supabase y Docker"></p>
+    </td>
+  </tr>
+</table>
 
----
+<details>
+<summary><sub>Proyectos anteriores</sub></summary>
+<br>
 
-## 🎯 Objetivo
+- [FoodHub](https://github.com/MartinMDevv/Backend_FoodHubApp): app Android en Kotlin y Jetpack Compose, con su backend.
+- [Fruit Season](https://github.com/MartinMDevv/FruitSeason_Backend): sitio en React con backend en Spring Boot.
 
-Construir proyectos sólidos para impulsar mi portafolio y prepararme para oportunidades profesionales en desarrollo de software.
+</details>
 
----
+## Certificaciones
 
-## 📈 Repositorios que recomiendo explorar
+<img src="assets/certificaciones.svg" alt="Nueve certificaciones de CertiProf" width="100%">
 
-- [FoodHub Android (Aplicación Móvil Kotlin)](https://github.com/Rau1ignacio/foodhub-android.git)
-- [Backend de FoodHub App en Kotlin](https://github.com/MartinMDevv/Backend_FoodHubApp)
-- [Repositorio backend en Java para Fruit Season](https://github.com/MartinMDevv/FruitSeason_Backend)
-- [React-Vite-FruitSeason-Fork (Web Moderno)](https://github.com/MartinMDevv/React-Vite-FruitSeason-Fork)
+## CTF
 
----
+<img src="assets/ctf.svg" alt="CTF con Kernel Panic" width="100%">
 
-## 🌱 Futuro
-
-Mi curiosidad también me lleva hacia la **Ciberseguridad**, área que buscaré explorar más adelante para complementar mi formación en desarrollo.
-
----
-
-<p align="center">
-  <em>Siempre dispuesto a aprender, colaborar y enfrentar nuevos desafíos tecnológicos.</em>
-</p>
